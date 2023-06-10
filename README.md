@@ -1,6 +1,8 @@
 # zuha
 about me :)
-
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="https://giphy.com/clips/illustration-vintage-red-EQ0xJUzlxANdBMpYC1"/>
+</a>
 
 ### Hi there 👋
 * 👂 My name is zuha fatima
