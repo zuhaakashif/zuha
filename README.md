@@ -9,6 +9,7 @@ about me :)
 - 🤖 My passion lies in **AI/ML**, along with **web** and **mobile application development**
 - 💻 I enjoy building meaningful, user-friendly tools that make everyday life better
 - 📚 Outside of tech, I love reading books and exploring new ideas
+- visit my portfolio: https://zuhaakashif.github.io/portfolio/
 
 ---
 
